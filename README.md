@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on 100 Days of Code (Python) plus an Air Canvas project using OpenCV & MediaPipe<br>🤝 I'm looking to collaborate on AI/ML and computer vision mini-projects<br>🍅 I'm looking for help with DSA problem-solving strategies<br>🌱 I'm currently learning Python, Data Structures & Algorithms, and core ML concepts<br>💬 Ask me about Python, Ai ML concepts, or Data structures <br>
+🔭 I'm currently working on 100 Days of Code (Python) plus a Machine Learning Project<br>🤝 I'm looking to collaborate on AI/ML and computer vision mini-projects<br>🍅 I'm looking for help with DSA problem-solving strategies<br>🌱 I'm currently learning Python, Data Structures & Algorithms, and core Computer Science and Full stack along with basic ML concepts<br>💬 Ask me about Python, Ai ML concepts, or Data structures <br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rajveer._kalsi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajveer-singh-kalsi-706b68397)
